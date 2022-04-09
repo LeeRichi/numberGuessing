@@ -1,4 +1,4 @@
-This is a small project for utofun.
+This is a small project of guessing the number.
 
 key functions:
 1. It can randomly gernerates a number from 1~100 and being reset.
